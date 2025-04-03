@@ -1,4 +1,4 @@
-# UltrabasicFractalRenderer
+# FractalRenderer
 Program for rendering some 2D fractals.
 
 Project was done for a computer graphics course and then improved a bit out of interest.
